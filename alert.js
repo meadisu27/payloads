@@ -1,1 +1,1 @@
-<script>alert('externalscript')</script>
+alert('externalscript');
